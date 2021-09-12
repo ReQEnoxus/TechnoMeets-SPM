@@ -1,0 +1,11 @@
+{
+  "name": "Cool Networking Packages",
+  "packages": [
+    {
+      "url": "https://github.com/Alamofire/Alamofire"
+    },
+    {
+      "url": "https://github.com/Moya/Moya"
+    }
+  ]
+}
