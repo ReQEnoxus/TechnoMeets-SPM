@@ -1,5 +1,5 @@
-# SwiftPM
-Репозиторий с дополнительными материалами по [докладу](https://docs.google.com/presentation/d/1ZJzVk92yq-fPrW6IqfwV4fPY-eCNTL97rntQqj5aVpw/edit?usp=sharing) о Swift Package Manager с iOS-митапа в Технократии
+# Swift Package Manager в iOS разработке
+Репозиторий с дополнительными материалами по [докладу](https://docs.google.com/presentation/d/1sP0-NpSrEmUlcMtR851eROxPeVwT6Gf6LqUP_u9xMXo/edit?usp=sharing) о Swift Package Manager с iOS-митапа в Технократии
 ## [Пример 1. Simple Dependency](https://github.com/ReQEnoxus/SwiftPM/tree/master/Projects/1.%20Simple%20Dependency)
 В этом примере рассматривается подключение к проекту зависимости `SwiftNotificationBanner` через SPM. Эта библиотека позволяет отображать на экране баннеры следующим образом: <br>
 <p align="center">
