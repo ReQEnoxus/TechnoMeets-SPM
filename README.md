@@ -676,7 +676,7 @@ struct MainView: View {
 # Полезные ссылки
 * [Официальная документация](https://swift.org/package-manager)
 * [Extensible Build Tools Proposal](https://github.com/apple/swift-evolution/blob/main/proposals/0303-swiftpm-extensible-build-tools.md)
-* [Binary Targets Improvements](https://github.com/apple/swift-evolution/blob/main/proposals/0305-swiftpm-binary-target-improvements.md)
+* [Binary Targets Improvements Proposal](https://github.com/apple/swift-evolution/blob/main/proposals/0305-swiftpm-binary-target-improvements.md)
 * [WWDC - Обзор SPM](https://developer.apple.com/videos/play/wwdc2018/411)
 * [WWDC - Использование пакетов](https://developer.apple.com/videos/play/wwdc2019/408)
 * [WWDC - Создание пакетов](https://developer.apple.com/videos/play/wwdc2019/410)
