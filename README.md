@@ -498,7 +498,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 <br>
 На этом шаге рефакторинг завершается, приложение готово к использованию
 
-## Пример 5. SwiftGen Plugin
+## [Пример 5. SwiftGen Plugin](https://github.com/ReQEnoxus/TechnoMeets-SPM/tree/master/Projects/5.%20SwiftGen%20Plugin)
 
 #### Важно: пример реализован на нестабильной версии Swift ([swift-DEVELOPMENT-SNAPSHOT-2021-09-18-a](https://swift.org/builds/development/xcode/swift-DEVELOPMENT-SNAPSHOT-2021-09-18-a/swift-DEVELOPMENT-SNAPSHOT-2021-09-18-a-osx.pkg)). Перед тем, как выполнять указанные далее шаги, необходимо убедиться, что версия Swift не ниже 5.6
 
