@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HandyExtensionsFramework",
+        "repositoryURL": "https://github.com/ReQEnoxus/HandyExtensionsFramework.git",
+        "state": {
+          "branch": "master",
+          "revision": "593da01a573b1cd7e8f191f9e129796f636c461a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

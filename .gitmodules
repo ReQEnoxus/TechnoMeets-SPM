@@ -1,0 +1,3 @@
+[submodule "Projects/5. SwiftGen Plugin/Plugin"]
+	path = Projects/5. SwiftGen Plugin/Plugin
+	url = https://github.com/ReQEnoxus/swiftgen-spm-plugin.git
